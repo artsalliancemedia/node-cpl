@@ -1,0 +1,28 @@
+{ "name": "node-cpl"
+    , "description": "SMTPE CPL parsing library"
+    , "author": "Matt Sullivan <matt.j.sullivan@gmail.com>"
+    , "version": "0.0.1"
+    , "bin": 
+        { "node-cpl": "./lib/node-cpl.js"
+    }
+    , "main": "./index"
+    , "scripts": 
+        { "test": "mocha --globals domain,_events,_maxListeners"
+    }
+    , "repository" :
+        { "type" : "git"
+        , "url" : "https://github.com/mjohnsullivan/node-cpl"
+    }
+    , "bugs" : { "url" : "https://github.com/mjohnsullivan/node-cpl/issues"
+    }
+    , "dependencies":
+        { "sax": "0.4.2"
+    }
+    , "devDependencies":
+        { "mocha": "1.7.0"
+        , "async": "0.1.22"
+    }
+    , "engines" : {
+        "node": ">=0.8"
+    }
+}
