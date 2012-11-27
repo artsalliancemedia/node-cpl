@@ -1,7 +1,7 @@
 { "name": "node-cpl"
-    , "description": "SMTPE CPL parsing library"
+    , "description": "SMPTE CPL parsing library"
     , "author": "Matt Sullivan <matt.j.sullivan@gmail.com>"
-    , "version": "0.0.1"
+    , "version": "0.0.2"
     , "bin": 
         { "node-cpl": "./lib/node-cpl.js"
     }
