@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompositionPlaylist xmlns:msp-cpl="http://www.digicine.com/schemas/437-Y/2007/Main-Stereo-Picture-CPL" xmlns="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#">
+  <Id>urn:uuid:3a4a95d1-6947-4752-8c73-57fc80111973</Id>
+  <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K</AnnotationText>
+  <IssueDate>2010-03-26T10:35:49+00:00</IssueDate>
+  <Issuer>Qube</Issuer>
+  <Creator>QubeMaster Pro 2.3.1.0</Creator>
+  <ContentTitleText>014_SD3D_ENC_S_FTR_F_EN-XX_UK_51_48_ST_20100326_FAC_i3D-ngb_OV</ContentTitleText>
+  <ContentKind scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-content">feature</ContentKind>
+  <ContentVersion>
+    <Id>urn:uuid:d7a4b6e7-cdbe-4058-80b0-b2ab92026a7f</Id>
+    <LabelText>014_SD3D_ENC_SYNFIXED_J2K (Original)</LabelText>
+  </ContentVersion>
+  <RatingList />
+  <ReelList>
+    <Reel>
+      <Id>urn:uuid:c5369412-b166-4e06-ae8c-485e002dedf4</Id>
+      <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-1</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:b956ff39-7718-469e-9ce1-3898caec9773</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-1-pcm.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>26924</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>26924</Duration>
+          <KeyId>urn:uuid:564d186f-f855-4bc8-8d08-c8eca184463c</KeyId>
+          <Hash>zC0UTYKmR73WdvqbrIhAdRasbrA=</Hash>
+          <Language>en</Language>
+        </MainSound>
+        <msp-cpl:MainStereoscopicPicture>
+          <Id>urn:uuid:2887e276-24da-4023-acf1-a878b8266676</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-1-jp2k.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>26924</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>26924</Duration>
+          <KeyId>urn:uuid:7a53ea8e-9e79-4dee-aaeb-f5a0ad03c475</KeyId>
+          <Hash>mJRk8ig+wwQmA0iWIGtFKfeioyI=</Hash>
+          <FrameRate>48 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">1.85</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:5a1ec66b-75f8-4038-98f1-2aec54ced7a8</Id>
+      <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-2</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:0552cc69-de0b-491f-982d-f739514a2644</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-2-pcm.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>27346</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>27346</Duration>
+          <KeyId>urn:uuid:c59a1f49-345d-4f8d-b124-44da421fe3f1</KeyId>
+          <Hash>9iPtJ0Rvd/C9f8WsojSaJnGnZew=</Hash>
+          <Language>en</Language>
+        </MainSound>
+        <msp-cpl:MainStereoscopicPicture>
+          <Id>urn:uuid:25a80e72-31a4-42fc-b28a-4ffcadabeee8</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-2-jp2k.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>27346</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>27346</Duration>
+          <KeyId>urn:uuid:0fb2a5c6-7a3f-4f7f-a575-024d0c5305f4</KeyId>
+          <Hash>TpcHJ2Svg8g4ZHS9xDsBSexRn1I=</Hash>
+          <FrameRate>48 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">1.85</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:397b765f-4fab-4c3e-a358-f96d89b7c40d</Id>
+      <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-3</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:1ddfec9f-1265-4260-90d0-c6e7d9558955</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-3-pcm.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>19128</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>19128</Duration>
+          <KeyId>urn:uuid:fc1c7c41-6f12-4439-aa52-9be8215f51be</KeyId>
+          <Hash>giICNWpgAoTPZuezpdeodjuBJww=</Hash>
+          <Language>en</Language>
+        </MainSound>
+        <msp-cpl:MainStereoscopicPicture>
+          <Id>urn:uuid:6e77128d-a6c5-46b2-ba85-ace394c7630f</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-3-jp2k.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>19128</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>19128</Duration>
+          <KeyId>urn:uuid:5c671a3c-ea1c-4ba3-9660-1207fc4a7f49</KeyId>
+          <Hash>LBlLyv/0XJOgxoCUuQmHLINiCXE=</Hash>
+          <FrameRate>48 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">1.85</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:a1b48368-31dd-4004-aef6-2559ba292c38</Id>
+      <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-4</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:aa977b26-de8b-4cb7-bafe-37c249eee978</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-4-pcm.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>27932</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>27932</Duration>
+          <KeyId>urn:uuid:19d528cd-6326-441e-be51-db752a246a60</KeyId>
+          <Hash>BCGXhSlqsqAoPqI+F25CieqJyN0=</Hash>
+          <Language>en</Language>
+        </MainSound>
+        <msp-cpl:MainStereoscopicPicture>
+          <Id>urn:uuid:18aaa200-61ec-4e6d-a526-394083e76315</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-4-jp2k.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>27932</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>27932</Duration>
+          <KeyId>urn:uuid:a78532a3-7ab7-4084-ba0a-d9c6ffc41587</KeyId>
+          <Hash>62NG/ayD8ptoLDgurk9G+tFdasE=</Hash>
+          <FrameRate>48 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">1.85</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:92d91c92-34a3-4d3e-8d99-db140469ddf9</Id>
+      <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-5</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:1932e7bf-99a9-4df3-aab9-36cbd184739d</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-5-pcm.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>20841</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>20841</Duration>
+          <KeyId>urn:uuid:00b89fb5-d900-4615-bf95-1bf608ee7649</KeyId>
+          <Hash>eCdFUnq1qNarNc/TsRzQFmLrqUc=</Hash>
+          <Language>en</Language>
+        </MainSound>
+        <msp-cpl:MainStereoscopicPicture>
+          <Id>urn:uuid:1500ea2f-6df7-473e-8efa-903dc1131d30</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-5-jp2k.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>20841</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>20841</Duration>
+          <KeyId>urn:uuid:45a1c9bc-2c1d-48c2-b125-0e404787a84c</KeyId>
+          <Hash>FGOn7xgPGfGyfiXYrCfj1h2N5iY=</Hash>
+          <FrameRate>48 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">1.85</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:e3ffc821-7ed3-4d41-83db-01de6c134170</Id>
+      <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-6</AnnotationText>
+      <AssetList>
+        <MainSound>
+          <Id>urn:uuid:9db755b7-8ae2-47e9-bfb7-2774a3d28c8a</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-6-pcm.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>19417</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>19417</Duration>
+          <KeyId>urn:uuid:4548a2c5-c970-4e1e-b2de-b0065c3e0676</KeyId>
+          <Hash>9WqIqSeq+pPJCG7RGfKVceruxPM=</Hash>
+          <Language>en</Language>
+        </MainSound>
+        <msp-cpl:MainStereoscopicPicture>
+          <Id>urn:uuid:e08361f7-bfe4-4f4b-b28f-df1f406c5276</Id>
+          <AnnotationText>014_SD3D_ENC_SYNFIXED_J2K-reel-6-jp2k.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>19417</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>19417</Duration>
+          <KeyId>urn:uuid:6b9da003-d563-4e91-943c-a688a8eb4b4c</KeyId>
+          <Hash>6HyOP2wV4sgJTzP4EMO4v9iFvTU=</Hash>
+          <FrameRate>48 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">1.85</ScreenAspectRatio>
+        </msp-cpl:MainStereoscopicPicture>
+      </AssetList>
+    </Reel>
+  </ReelList>
+</CompositionPlaylist>

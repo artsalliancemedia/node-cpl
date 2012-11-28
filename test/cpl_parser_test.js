@@ -24,6 +24,32 @@ var getCPLFiles = function() {
 };
 
 /**
+ * Blank asserts for the test CPL
+ */
+var cplAsserts = function(cpl) {
+	assert(cpl);
+	assert.equal(cpl.id, '7b1e5649-ff30-489b-b74a-c2e1060bb590');
+	assert.equal(cpl.issuer, 'Arts Alliance Media', 'CPL issuer is incorrect');
+	assert.equal(cpl.issueDate.getTime(), new Date('2009-02-04T10:34:09-00:00').getTime());
+	assert.equal(cpl.creator, 'wl-cpl + Wailua v0.4.27');
+	assert.equal(cpl.titleText, 'AIDA-ACT1_FTR_F_IT-DE_DE_51_2K_20090217_AAM');
+	assert.equal(cpl.text, 'AIDA-ACT1_FTR_F_IT-DE_DE_51_2K_20090217_AAM');
+	assert.equal(cpl.type, 'feature');
+	assert(cpl.hasSubtitles);
+	assert(!cpl.threeD);
+	assert(cpl.reels);
+	assert(cpl.reels.length, 2);
+	assert.equal(cpl.reels[0].id, '20afa00e-1923-4ceb-8ecc-868db492e53d');
+	assert.equal(cpl.reels[0].editRate[0], 24);
+	assert.equal(cpl.reels[0].frames, 312);
+	assert.equal(cpl.reels[0].aspectRatio, 1.85);
+	assert.equal(cpl.reels[1].id, '553bb212-d758-4ef8-9789-cc2ca1104116');
+	assert.equal(cpl.reels[1].editRate[0], 24);
+	assert.equal(cpl.reels[1].frames, 63720);
+	assert.equal(cpl.reels[1].aspectRatio, 1.85);
+};
+
+/**
  * CPL parser tests
  */
 describe('cplParser', function() {
@@ -32,11 +58,8 @@ describe('cplParser', function() {
 		it('should create a stream and parse the metadata from an XML stream', function(done) {
 			var cplStream = cplParser.createStream();
  			fs.createReadStream(path.resolve(__dirname, path.join('cpls', 'cpl.xml'))).pipe(cplStream);
-
  			cplStream.on('cpl', function(cpl) {
-				assert(cpl, 'CPL metadata should not be null');
-				assert.equal(cpl.id, '7b1e5649-ff30-489b-b74a-c2e1060bb590', 'CPL id is incorrect');
-				assert.equal(cpl.issuer, 'Arts Alliance Media', 'CPL issuer is incorrect');
+				cplAsserts(cpl);
 				done();
  			});
 		});
@@ -48,9 +71,7 @@ describe('cplParser', function() {
 			fs.readFile(path.resolve(__dirname, path.join('cpls', 'cpl.xml')), 'utf8', function(err, xml) {
 				cplParser.parse(xml, function(err, cpl) {
 					assert.ifError(err);
-					assert(cpl, 'CPL metadata should not be null');
-					assert.equal(cpl.id, '7b1e5649-ff30-489b-b74a-c2e1060bb590', 'CPL id is incorrect');
-					assert.equal(cpl.issuer, 'Arts Alliance Media', 'CPL issuer is incorrect');
+					cplAsserts(cpl);
 					done();
 				});
 			});

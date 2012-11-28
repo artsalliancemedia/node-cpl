@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?><CompositionPlaylist xmlns="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+  <Id>urn:uuid:917e0b5d-4034-4b73-976d-4a168b6d8749</Id>
+  <AnnotationText>MAX-MANUS-N_FTR_S_NO-NO_NO_51_2K_NDA_20081218_AAM</AnnotationText>
+  <IssueDate>2008-12-19T11:34:55+00:00</IssueDate>
+  <Issuer>Qube</Issuer>
+  <Creator>Qube Master 2.1.3.5</Creator>
+  <ContentTitleText>MAX-MANUS-N_FTR_S_NO-NO_NO_51_2K_NDA_20081218_AAM</ContentTitleText>
+  <ContentKind scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-content">feature</ContentKind>
+  <RatingList />
+  <ReelList>
+    <Reel>
+      <Id>urn:uuid:559976bd-9dbd-4f8f-a51b-05fba0698dd5</Id>
+      <AnnotationText>Reel_1_of_MAX-M-CRD_FTR_S_NO-XX_NO_51_2K_NDA_20081212_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:09fa75d2-7a1d-4f34-a00d-f4ee27385522</Id>
+          <AnnotationText>Reel_1_Video_of_MAX-MANUS-CRD_FTR_S_NO-XX_NO_51_2K_NDA_20081212_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>39</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>39</Duration>
+          <KeyId>urn:uuid:40cea74b-e3e1-f2ba-2ec8-1d93a2516c60</KeyId>
+          <Hash>9YvqZK/deBe/in29gHpdteCvwik=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:c660c658-d834-42d1-ad6a-9d1b2a08cad2</Id>
+          <AnnotationText>maxmanus_a1.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>24518</IntrinsicDuration>
+          <EntryPoint>48</EntryPoint>
+          <Duration>39</Duration>
+          <Hash>Plcs73F5qVgiS3GexI8PoNZP5hc=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:1cb35de7-cb52-46d0-888b-392efd135037</Id>
+          <AnnotationText>max-manus_no_subs_r1.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>0</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>39</Duration>
+          <Hash>8auLW9IHZKwjEUfE1QZ+QFCSYzg=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:a62f2a29-5267-4c43-ac6e-93e54ceb8587</Id>
+      <AnnotationText>Reel_1_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:c49f43fa-cf59-4543-9116-95e515ef40b1</Id>
+          <AnnotationText>Reel_1_Video_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>24335</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>24335</Duration>
+          <KeyId>urn:uuid:b35b3dc2-0467-6453-cae9-1b0d0b0c3207</KeyId>
+          <Hash>5xIADD5VxGuE1/aIgBxBNFGtVlU=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:c660c658-d834-42d1-ad6a-9d1b2a08cad2</Id>
+          <AnnotationText>maxmanus_a1.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>24518</IntrinsicDuration>
+          <EntryPoint>87</EntryPoint>
+          <Duration>24335</Duration>
+          <Hash>Plcs73F5qVgiS3GexI8PoNZP5hc=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:4b8f2078-9022-4f10-933c-11bf8621e41c</Id>
+          <AnnotationText>max-manus_no_subs_r2.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>0</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>24335</Duration>
+          <Hash>nQWW8E2qlJpBUgELmhGYDAo4/cs=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:52583b2b-2afd-4924-940c-dcbc5f39a078</Id>
+      <AnnotationText>Reel_2_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:352405e6-cc1d-4686-b7fb-87990b55acea</Id>
+          <AnnotationText>Reel_2_Video_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>27906</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>27906</Duration>
+          <KeyId>urn:uuid:dcaba717-697a-d68e-044c-1cae73a54722</KeyId>
+          <Hash>dMdtoI/0YVWy/Va+K6LU17dqArM=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:9efb8996-2139-4ef6-8b94-9d01f69247e1</Id>
+          <AnnotationText>maxmanus_a2.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>28069</IntrinsicDuration>
+          <EntryPoint>48</EntryPoint>
+          <Duration>27906</Duration>
+          <KeyId>urn:uuid:44d35cfc-cc21-dbe2-257c-f9dc19175f60</KeyId>
+          <Hash>E3g3Bx4IHTumKaC1XO6FBXND6Fs=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:4eb7ffb4-fee3-4a94-9d7e-a86e402094f4</Id>
+          <AnnotationText>max-manus_no_subs_r3_c.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>26804</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>27906</Duration>
+          <Hash>mRRa3ViMAui68BR3bPd+D1QJit8=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:8f37d11f-c331-468d-8520-63403a3f02ad</Id>
+      <AnnotationText>Reel_3_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:89220301-218b-451d-913c-e4af378f0e6c</Id>
+          <AnnotationText>Reel_3_Video_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>30671</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>30671</Duration>
+          <KeyId>urn:uuid:64230b45-ddab-6cda-beb2-b32a307f0724</KeyId>
+          <Hash>QIacQLtJdCNr1gCqWG1cygjOzj8=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:8985768c-7afe-4313-a1b1-aa4514b8bbfe</Id>
+          <AnnotationText>maxmanus_a3.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>30828</IntrinsicDuration>
+          <EntryPoint>48</EntryPoint>
+          <Duration>30671</Duration>
+          <KeyId>urn:uuid:fa2705f8-3f09-c169-581d-b27d7c7813f4</KeyId>
+          <Hash>8ECL7i6ZO3OW9M4/FF6fXDeH5Mo=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:8400a4f2-bfda-474a-8d27-5baa33bc5461</Id>
+          <AnnotationText>max-manus_no_subs_r4_c.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>29109</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>30671</Duration>
+          <Hash>uunPgm2fvo+6i/+yv4nrwwbdvBk=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:b40e1e42-f8ea-409b-8462-84894a6bd5ad</Id>
+      <AnnotationText>Reel_4_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:1b51dd54-cd46-4940-9c3c-5c3baae76c44</Id>
+          <AnnotationText>Reel_4_Video_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>25441</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>25441</Duration>
+          <KeyId>urn:uuid:2855c285-7da4-540a-e0b3-81fe03bf1938</KeyId>
+          <Hash>h+Yv4o2hDpSXEhBH1dWpDVwLtng=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:067a27ea-507c-4ee6-bc3e-15fd64fa8d51</Id>
+          <AnnotationText>maxmanus_a4.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>25577</IntrinsicDuration>
+          <EntryPoint>48</EntryPoint>
+          <Duration>25441</Duration>
+          <KeyId>urn:uuid:a8e54ab6-e407-794e-ba5f-e73c72574e0e</KeyId>
+          <Hash>mhftvtAKQRTgSmnKjJC0q6qgjGE=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:fee01657-1a08-4bdf-aa59-8d1c17f81d52</Id>
+          <AnnotationText>max-manus_no_subs_r5_c.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>22181</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>25441</Duration>
+          <Hash>fcsxnrEi67UT6UaXPINEAJa62Sw=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:b7138a70-dbc4-42af-b316-9d28dcc44588</Id>
+      <AnnotationText>Reel_5_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:52a8df08-f2bc-4c57-b72e-ec8653feb4f8</Id>
+          <AnnotationText>Reel_5_Video_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>29439</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>29439</Duration>
+          <KeyId>urn:uuid:86356925-cea9-b193-fbee-40d21b5ffa5d</KeyId>
+          <Hash>1zc+zBDXoVeXIBKVjyPIy9en5tg=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:9dc91afc-62b8-4de2-8689-f0def415937f</Id>
+          <AnnotationText>maxmanus_a5.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>29597</IntrinsicDuration>
+          <EntryPoint>48</EntryPoint>
+          <Duration>29439</Duration>
+          <KeyId>urn:uuid:7d30206c-e238-2177-7847-80b15f5b5d81</KeyId>
+          <Hash>WuZ5GItkQfQHR5tUg6GPLvI+g/0=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:9f403b57-d121-4c66-aa0b-8ca69c684168</Id>
+          <AnnotationText>max-manus_no_subs_r6_c.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>28317</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>29439</Duration>
+          <Hash>wT2hIRq6OqZQz6YsW7ZXLGlBCBU=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:ac7658b1-c13d-462e-89e4-9a313141c083</Id>
+      <AnnotationText>Reel_6_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:1a3f68eb-abbe-4041-bfdf-6aec43e53c3d</Id>
+          <AnnotationText>Reel_6_Video_of_MAX-MANUS_FTR_S_NO-XX_NO_51_2K_NDA_20081209_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>24093</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>24093</Duration>
+          <KeyId>urn:uuid:d318ed7e-87d3-ccfd-ef0c-1a56c7dd9631</KeyId>
+          <Hash>0vpSIP/jp+wmvN/9Uee3jek/eJ0=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:6a92afff-2bed-4ddc-84ea-88aee6be3985</Id>
+          <AnnotationText>maxmanus_a6.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>31601</IntrinsicDuration>
+          <EntryPoint>48</EntryPoint>
+          <Duration>24093</Duration>
+          <KeyId>urn:uuid:64a3deeb-e654-0835-0430-c25a6c279e39</KeyId>
+          <Hash>1ETrmjYnzJaEERdYBnCQPTeweQ0=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:b5be02fe-a1b0-4c5c-9f9c-8f6a121d937f</Id>
+          <AnnotationText>max-manus_no_subs_r7_c.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>5643</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>24093</Duration>
+          <Hash>34DwP6zWbY2kM1q7KmmpvGKbI7k=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:bfb8eb38-00b1-47a9-bac4-bcab10d58ea1</Id>
+      <AnnotationText>Reel_1_of_MM-RULLTXT_FTR_S_NO-NO_NO_51_2K_NDA_20081218_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:854b15e6-daf7-4131-b673-56b19f0f09f3</Id>
+          <AnnotationText>Reel_1_Video_of_MM-RULLTXT_FTR_S_NO-NO_NO_51_2K_NDA_20081218_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>7583</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>3504</Duration>
+          <KeyId>urn:uuid:84e885a0-70b7-0ee1-3ea6-3b238f133b0f</KeyId>
+          <Hash>RejIvuwfvzhGdPpDsdJ7Ed5BGX8=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:6a92afff-2bed-4ddc-84ea-88aee6be3985</Id>
+          <AnnotationText>maxmanus_a6.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>31601</IntrinsicDuration>
+          <EntryPoint>24141</EntryPoint>
+          <Duration>3504</Duration>
+          <KeyId>urn:uuid:64a3deeb-e654-0835-0430-c25a6c279e39</KeyId>
+          <Hash>1ETrmjYnzJaEERdYBnCQPTeweQ0=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:4f25aa47-fab6-4692-96ae-4a0a8948575b</Id>
+          <AnnotationText>max-manus_no_subs_r8.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>0</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>3504</Duration>
+          <Hash>PAmZFp98yY6xGNu8mHQe1Efj/L8=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:8c7118c7-0411-411d-a71f-6c932dca4e01</Id>
+      <AnnotationText>Reel_2_of_MAX-M-CRD_FTR_S_NO-XX_NO_51_2K_NDA_20081212_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:6cce3edb-0a15-4c27-a05f-2b1eb15d7c15</Id>
+          <AnnotationText>Reel_2_Video_of_MAX-MANUS-CRD_FTR_S_NO-XX_NO_51_2K_NDA_20081212_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>4080</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>3956</Duration>
+          <KeyId>urn:uuid:0699313b-6266-6eb2-fd99-ced644233d1c</KeyId>
+          <Hash>S7kOVVjn3wWx9HmbUXhdyi3gCKI=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:6a92afff-2bed-4ddc-84ea-88aee6be3985</Id>
+          <AnnotationText>maxmanus_a6.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>31601</IntrinsicDuration>
+          <EntryPoint>27645</EntryPoint>
+          <Duration>3956</Duration>
+          <KeyId>urn:uuid:64a3deeb-e654-0835-0430-c25a6c279e39</KeyId>
+          <Hash>1ETrmjYnzJaEERdYBnCQPTeweQ0=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:4f25aa47-fab6-4692-96ae-4a0a8948575b</Id>
+          <AnnotationText>max-manus_no_subs_r8.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>0</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>3956</Duration>
+          <Hash>PAmZFp98yY6xGNu8mHQe1Efj/L8=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:e1e198d7-bc2f-44ff-8fb0-eb88829330ed</Id>
+      <AnnotationText>MAX-Credfix</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:6cce3edb-0a15-4c27-a05f-2b1eb15d7c15</Id>
+          <AnnotationText>Reel_2_Video_of_MAX-MANUS-CRD_FTR_S_NO-XX_NO_51_2K_NDA_20081212_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>4080</IntrinsicDuration>
+          <EntryPoint>3956</EntryPoint>
+          <Duration>124</Duration>
+          <KeyId>urn:uuid:0699313b-6266-6eb2-fd99-ced644233d1c</KeyId>
+          <Hash>S7kOVVjn3wWx9HmbUXhdyi3gCKI=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:58aecdd9-9c95-4429-983e-a161e002e8ff</Id>
+          <AnnotationText>7s_silence_6ch.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>168</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>124</Duration>
+          <Hash>tch/WUq/OAJh6R3zh9kfuwz1OeQ=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:4f25aa47-fab6-4692-96ae-4a0a8948575b</Id>
+          <AnnotationText>max-manus_no_subs_r8.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>0</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>124</Duration>
+          <Hash>PAmZFp98yY6xGNu8mHQe1Efj/L8=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+  </ReelList>
+  <Signer>
+    <ds:X509Data>
+      <ds:X509IssuerSerial>
+        <ds:X509IssuerName>CN=.XP.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=ZsYxgsqaK6l\+imhFNMRGFo21dng=</ds:X509IssuerName>
+        <ds:X509SerialNumber>781</ds:X509SerialNumber>
+      </ds:X509IssuerSerial>
+    </ds:X509Data>
+  </Signer>
+
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+<ds:Reference URI="">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<ds:DigestValue>OBNFG6mSHzv1zxSz024amMyjS4U=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>bGmgMQW2bRWx/024XRIX86AYLLPtCy4scXkM+IQerppezswyHvEAwDcjFlPbx99v
+Fl4g1bx7Pw/hHM5XPlo/7lr43HnnEhXIP0R3st+S31r/LJI2EzEzLojMkzbZCLnZ
+9D+M76AIpY0XSmXeH4FfFGncm6OIx6Vl/gw6aF3ATlzUgFFPfNx1R7iP76Q+LUgo
+/NDyGMtrT2ORcHvnmlVQUZk6HWwJ2CzOm57tXuAwyL+E0jY56ceKgkN7w4G7HTNw
+Qww8WB0j5L/UeG/+86uR/DgZTvTAUoRlBIIdMrZ2iLd29Hr/0z3fXIJ6Wrr2tSbj
+Y/J3wLz6hOWsCzucDX7j9w==</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>CN=.XP.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=ZsYxgsqaK6l\+imhFNMRGFo21dng=</ds:X509IssuerName>
+<ds:X509SerialNumber>781</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIERzCCAy+gAwIBAgICAw0wDQYJKoZIhvcNAQEFBQAwajElMCMGA1UELhMcWnNZeGdzcWFL
+NmwraW1oRk5NUkdGbzIxZG5nPTETMBEGA1UEChMKQ0EuUVVCRS5JTjETMBEGA1UECxMKQ0Eu
+UVVCRS5JTjEXMBUGA1UEAxMOLlhQLkNBLlFVQkUuSU4wHhcNMDcxMjEzMTYxNzQ0WhcNMTIx
+MjExMTYxNzQ0WjCBjjElMCMGA1UELhMcMGhzcDRDL3p1WUx2Nmw5UDZJVkswTVhUQTJrPTET
+MBEGA1UEChMKQ0EuUVVCRS5JTjETMBEGA1UECxMKQ0EuUVVCRS5JTjE7MDkGA1UEAxMyU00g
+U1BCIE1EIExFLkFSVFNBTExJQU5DRS1NQVNURVJJTkcxLlhQLkNBLlFVQkUuSU4wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCmYGDGYZGiu4BAKco4HX1ZcIKwA8jTBqvXB/OR
+y4CkJznX87DrHau72Gj4Zd0weiaW1y4LLD4CvgQV3Ej+6CvU7Xuxr1vwy+P0Nts09opyBjnI
+Ay/fyi1OStbjuQMmrMqGpJaO9dUY7/Z+ILVUlxRpVOIH2GRFOYU/20w/VFUkD85oB+cImKO6
+EbjswmKXbvEmIxtyr03yD8Of7OCX2pu9Qn/MO8ZcJ1zCgFMypUq55aTwokGnwt/D02AYGBBq
+aQhSPTrWaQyPy1cHn4ZbFp9zu83l/abWRlxOCoWwk2oabRIKNSba7ohdFMN1LGIMqaRaraez
+fth1ELpyyXk/+D6hAgMBAAGjgdEwgc4wDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBLAwHQYD
+VR0OBBYEFNIbKeAv87mC7+pfT+iFStDF0wNpMIGRBgNVHSMEgYkwgYaAFGbGMYLKmiupfopo
+RTTERhaNtXZ4oWukaTBnMSUwIwYDVQQuExxwdkxjUXp1WUdjTUxxZUZEdCtNR3BOUE9RQ2c9
+MRMwEQYDVQQKEwpDQS5RVUJFLklOMRMwEQYDVQQLEwpDQS5RVUJFLklOMRQwEgYDVQQDEwsu
+Q0EuUVVCRS5JToIBCjANBgkqhkiG9w0BAQUFAAOCAQEAuQoeyf9/QAaddYnyzzXltYABJh7+
+januWGpFhWT26Tn8tUf89w6m0ZdrGQqwo18kGOJO2NtKKGEYPKwcJT1/HVffOC9/nD0Sdk6y
+hO3tJmEp0rV2DqIf2XscrmyBirufz2N4VXWtOzLBt8mfCw3Nxjw5UdnrEY+ZQ01qGF29/lVC
+fnmdHZ/fnv4FuVSZnps/JcsEoJTxfG+qqp2+DKYAvjK3NXoJ4EVM3B9kQFMeqX4Y/qI/jhIE
+ktACnmAmEYW88hFsPOsoKKJZ7b7QfrBba9fciLuiogEOEDeArPMDrcZiPzN1+iv2F7ITVYdO
++pvIWeNEClDopXjGVYNcEJm9dg==</ds:X509Certificate>
+</ds:X509Data>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>CN=.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=pvLcQzuYGcMLqeFDt\+MGpNPOQCg=</ds:X509IssuerName>
+<ds:X509SerialNumber>10</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIEJDCCAwygAwIBAgIBCjANBgkqhkiG9w0BAQUFADBnMSUwIwYDVQQuExxwdkxjUXp1WUdj
+TUxxZUZEdCtNR3BOUE9RQ2c9MRMwEQYDVQQKEwpDQS5RVUJFLklOMRMwEQYDVQQLEwpDQS5R
+VUJFLklOMRQwEgYDVQQDEwsuQ0EuUVVCRS5JTjAeFw0wNzA2MjEwODQyNThaFw0xNzA2MTcw
+ODQyNThaMGoxJTAjBgNVBC4THFpzWXhnc3FhSzZsK2ltaEZOTVJHRm8yMWRuZz0xEzARBgNV
+BAoTCkNBLlFVQkUuSU4xEzARBgNVBAsTCkNBLlFVQkUuSU4xFzAVBgNVBAMTDi5YUC5DQS5R
+VUJFLklOMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvFcpTa7Z6o08Nk2ornd3
+9KMErLHbxQoiKMnAsJAHWfRaEDSbpay2VS9RUwNZdznTtpkJfEG1Rk24RMA/3g1fhr8Z1Hpr
+/fuEPU2cEIvbzvn2ppE915sM4euS+SaHG4nCMjpkZ0mF+UNFj1CkpzeuVqUqdV7jUfi33KAw
+vxVV+cmI3aq2wUBuZDSHU4hq3hLGsgjkcqXq1DvRVnMzNUbca7ccByekdFE7n2tj3qN+7wZN
+xH7uEnVd7TV1mwvbeID8BHRHkqni1xftU/VoY8UB3lPN6Fd1DwFpLaxFqAGL1QaOWeKuIyW/
+/Cii5Bcibqm7R84RmbrhgPaYU2Mhfyc2NwIDAQABo4HXMIHUMBIGA1UdEwEB/wQIMAYBAf8C
+AQAwCwYDVR0PBAQDAgEGMB0GA1UdDgQWBBRmxjGCyporqX6KaEU0xEYWjbV2eDCBkQYDVR0j
+BIGJMIGGgBSm8txDO5gZwwup4UO34wak085AKKFrpGkwZzElMCMGA1UELhMccHZMY1F6dVlH
+Y01McWVGRHQrTUdwTlBPUUNnPTETMBEGA1UEChMKQ0EuUVVCRS5JTjETMBEGA1UECxMKQ0Eu
+UVVCRS5JTjEUMBIGA1UEAxMLLkNBLlFVQkUuSU6CAQEwDQYJKoZIhvcNAQEFBQADggEBAA1g
+IrrdC5zXU3viluiX750Qss+F1cpg9b7w332hXT853uU0+3PO5vP1zRr/xG/oYAOe3rAhmH9c
+2nZtpdxRPBCJZMDJ4NbbN8joC0EksP2zFg8QWUIuZGhjIRSykI3TnSNYD+4tlH9v3hfSu5uP
+RlIckzghr+wjVg47MFBcIDd5aKxEswBnPUXWTuC2SNyVF0oFJwH1NCDT4uc/RfKAskBr1q46
+4aQkCsOWNX2sq4r3r5XtKCs+FBC6aPTea5JAUOrmdF9qHz6LNq44rzBn9eX8ZVUucJodBrOU
+BstBz1Sti5Ajp/v84pCy9Iq4fq6ZUnANbFCyNOYZHmL5RQAIW4s=</ds:X509Certificate>
+</ds:X509Data>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>CN=.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=pvLcQzuYGcMLqeFDt\+MGpNPOQCg=</ds:X509IssuerName>
+<ds:X509SerialNumber>1</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIEITCCAwmgAwIBAgIBATANBgkqhkiG9w0BAQUFADBnMSUwIwYDVQQuExxwdkxjUXp1WUdj
+TUxxZUZEdCtNR3BOUE9RQ2c9MRMwEQYDVQQKEwpDQS5RVUJFLklOMRMwEQYDVQQLEwpDQS5R
+VUJFLklOMRQwEgYDVQQDEwsuQ0EuUVVCRS5JTjAeFw0wNzA2MjEwODQyNTdaFw0xNzA2MTgw
+ODQyNTdaMGcxJTAjBgNVBC4THHB2TGNRenVZR2NNTHFlRkR0K01HcE5QT1FDZz0xEzARBgNV
+BAoTCkNBLlFVQkUuSU4xEzARBgNVBAsTCkNBLlFVQkUuSU4xFDASBgNVBAMTCy5DQS5RVUJF
+LklOMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwerl/7T6PZ9rLE+dpBEFY0u7
+vDovRJR3QVe+FyfmNlqKve6txKCO7U4Z5nAJTuiS1JkQp93XkigranV4lie9jTagNgfTGx4W
+GJG0MaVESnUY2o/HUQWh/8HWSWGAvx/ObWO6Zr6X55p63t5GkYYYJH+K2wOuV0LAm+0fYcIN
+Zmz/I/ZNbeYJJ9aGbO0fMpAYrvI1EoRe9aq+EIW6rCidExvOxko5iY7hsNtcg8VFHdZ/iIuA
+hiywOxzwfaPFq+WYfthY6fe1CQD4jzeI/JFNeRWX+v7Vpy3Yhq3OahePfqbt6zmXoeJHBX11
+DElf6Chvp1ap3LLjPpFfCaeqW7tayQIDAQABo4HXMIHUMB0GA1UdDgQWBBSm8txDO5gZwwup
+4UO34wak085AKDCBkQYDVR0jBIGJMIGGgBSm8txDO5gZwwup4UO34wak085AKKFrpGkwZzEl
+MCMGA1UELhMccHZMY1F6dVlHY01McWVGRHQrTUdwTlBPUUNnPTETMBEGA1UEChMKQ0EuUVVC
+RS5JTjETMBEGA1UECxMKQ0EuUVVCRS5JTjEUMBIGA1UEAxMLLkNBLlFVQkUuSU6CAQEwEgYD
+VR0TAQH/BAgwBgEB/wIBATALBgNVHQ8EBAMCAgQwDQYJKoZIhvcNAQEFBQADggEBAIu8VtbY
+jaeV8nZ+9z4/BV14IGWmPGUMeveXG+xJ9dZZpg1VdszAyakuyKJdg+PvySAsBOynghZuh89a
+5MdVYVOjE/Wg2RifER4g2r3DBjGyxhqutNCLJW8R2buXCvQXzcA+PlBHvajAwmZmTtXdp0cs
+WqiXQXoBe6ZWYoN9vGmtNqYCb4mx3g3rnSm4ojO1P6UV27W5em7HVVEwJvqjOf/2GI7oIIj9
+jv9Hwru/9xMPh048VLENWeac0trhtYpY1vcyR7IHtXBxQazegN7QI1/sLmSaA4lZzx4gwk8F
+r/JgGQiDcMei+oT4lu2Z/W0EVMRZxj0LDX04OI9OfxyCHgQ=</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+</ds:Signature>
+</CompositionPlaylist>

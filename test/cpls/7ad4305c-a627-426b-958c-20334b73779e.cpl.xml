@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?><CompositionPlaylist xmlns="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+  <Id>urn:uuid:7ad4305c-a627-426b-958c-20334b73779e</Id>
+  <AnnotationText>ANYTHINGFOR-HER_FTR_S_FR-EN_UK-15_51_2K_MTRD_20090520_AAM</AnnotationText>
+  <IssueDate>2009-05-20T18:21:17+01:00</IssueDate>
+  <Issuer>Qube</Issuer>
+  <Creator>Qube Master 2.1.3.5</Creator>
+  <ContentTitleText>ANYTHINGFOR-HER_FTR_S_FR-EN_UK-15_51_2K_MTRD_20090520_AAM</ContentTitleText>
+  <ContentKind scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-content">feature</ContentKind>
+  <RatingList />
+  <ReelList>
+    <Reel>
+      <Id>urn:uuid:d1e26fd4-439c-4490-83c0-33f77d87ecf0</Id>
+      <AnnotationText>ukfc-239_en-subs</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:b0747f43-3d3e-4364-b8e4-e3edda84c3b3</Id>
+          <AnnotationText>ukfc-239A_v1.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>190</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>190</Duration>
+          <Hash>/fDcqKqKAhHHY7AAlx3etE0yixw=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:4eb09ab3-e4e8-1447-96a5-c2c0d9326d56</Id>
+          <AnnotationText>ukfc_XXX_a1.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>190</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>190</Duration>
+          <Hash>KPs2o0QQEFZ0L6xIOW9WycIV2Pk=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:3a57c4a8-7754-46df-be4a-604286210605</Id>
+          <AnnotationText>ukfc_en-subs_v1.mxl.XML</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>0</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>190</Duration>
+          <Hash>EObI2nCajp1nL2/cLPWKV2/Oejo=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:df9f915a-feca-4980-97ea-c627e783603d</Id>
+      <AnnotationText>metrodome_239_en-subs</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:b38ad7bf-7432-41c8-a5e5-3b4d7177de1f</Id>
+          <AnnotationText>metrodome_239A_v1.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>201</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>199</Duration>
+          <Hash>aH+4Rhh/pEzV4cVsFzWl2Y34xiQ=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:fb1185f3-0805-43a2-b500-c2c73f952a4e</Id>
+          <AnnotationText>metrodome_xxx_6ch_a1.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>199</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>199</Duration>
+          <Hash>7cvgxZcOomgss/Aj1LhwZ3YR+yg=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:8be2925f-8024-4325-bf3b-2758a7504762</Id>
+          <AnnotationText>metrodome_en-subs_v1.XML</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>0</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>199</Duration>
+          <Hash>4IGr9qI/6+8HMEYyCuSOBFLrBcI=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+    <Reel>
+      <Id>urn:uuid:1686bd0e-4c1c-48e8-8b12-7cd69c85f9c7</Id>
+      <AnnotationText>Reel_1_of_ANYTHINGFOR-HER_FTR_S_FR-EN_UK-15_51_2K_MTRD_20090518_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:0b15e767-5171-46b7-8d17-d27685af3e88</Id>
+          <AnnotationText>Reel_1_Video_of_ANYTHINGFOR-HER_FTR_S_FR-EN_UK-15_51_2K_MTRD_20090518_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>138624</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>138624</Duration>
+          <KeyId>urn:uuid:aeba4e1d-378e-39f9-7045-96754c8efee6</KeyId>
+          <Hash>Izmg9hBcrMIB/BzNjJqS1S2CDVY=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">2.39</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:04adcec8-5a20-4a10-ac81-2e77e8f99809</Id>
+          <AnnotationText>Reel_1_Audio_of_ANYTHINGFOR-HER_FTR_S_FR-EN_UK-15_51_2K_MTRD_20090520_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>144976</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>138624</Duration>
+          <KeyId>urn:uuid:722933ee-0903-5091-dbef-68e05742de99</KeyId>
+          <Hash>H9nFuq2/XYod8q1SS5/GGoVjU9s=</Hash>
+        </MainSound>
+        <MainSubtitle>
+          <Id>urn:uuid:8d40ea50-f77d-4d66-b7a9-d35f036b012e</Id>
+          <AnnotationText>anythingforher_en-subs_v2.xml</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>138579</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>138624</Duration>
+          <Hash>ZDBK+bOCDyio0nhxG0vFyUESx3Q=</Hash>
+        </MainSubtitle>
+      </AssetList>
+    </Reel>
+  </ReelList>
+  <Signer>
+    <ds:X509Data>
+      <ds:X509IssuerSerial>
+        <ds:X509IssuerName>CN=.XP.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=ZsYxgsqaK6l\+imhFNMRGFo21dng=</ds:X509IssuerName>
+        <ds:X509SerialNumber>781</ds:X509SerialNumber>
+      </ds:X509IssuerSerial>
+    </ds:X509Data>
+  </Signer>
+
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+<ds:Reference URI="">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<ds:DigestValue>Egp3MNXK5q0AJ+3DayzJHU1avr0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>pUvd7Fe8ko9yF8ZQkGpXzY/mFQfgn4Q84uODcLUvejeBcFVcpsdqfTqB7t7BpWPK
+sHB3h6Dk/q5K/UwF0P/zmTbrNoxSoOCyvSHtNWOoeHcvL5z//pCRcCtGb5X91qbL
+19Kmr0GsWzdDOoNOZWn4e91hAxlSst3WOckoQY5/vaNaOY4psdmaI4nGFE3sn9yG
+u4LEwry7LbmKsyh9eT1lx9bADqvNv7bCeqqhSpj+IM9YScz4AltZ5/H2Ejh5D4ka
+04fTmBQ0KD2MLjOpBBabNAE/nzGgIs0q4fZOWv5/YyYIJqMI2Y2gc4vj47yeLUuQ
+VuLi4rXBUSnZi5BF8p1PMg==</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>CN=.XP.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=ZsYxgsqaK6l\+imhFNMRGFo21dng=</ds:X509IssuerName>
+<ds:X509SerialNumber>781</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIERzCCAy+gAwIBAgICAw0wDQYJKoZIhvcNAQEFBQAwajElMCMGA1UELhMcWnNZeGdzcWFL
+NmwraW1oRk5NUkdGbzIxZG5nPTETMBEGA1UEChMKQ0EuUVVCRS5JTjETMBEGA1UECxMKQ0Eu
+UVVCRS5JTjEXMBUGA1UEAxMOLlhQLkNBLlFVQkUuSU4wHhcNMDcxMjEzMTYxNzQ0WhcNMTIx
+MjExMTYxNzQ0WjCBjjElMCMGA1UELhMcMGhzcDRDL3p1WUx2Nmw5UDZJVkswTVhUQTJrPTET
+MBEGA1UEChMKQ0EuUVVCRS5JTjETMBEGA1UECxMKQ0EuUVVCRS5JTjE7MDkGA1UEAxMyU00g
+U1BCIE1EIExFLkFSVFNBTExJQU5DRS1NQVNURVJJTkcxLlhQLkNBLlFVQkUuSU4wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCmYGDGYZGiu4BAKco4HX1ZcIKwA8jTBqvXB/OR
+y4CkJznX87DrHau72Gj4Zd0weiaW1y4LLD4CvgQV3Ej+6CvU7Xuxr1vwy+P0Nts09opyBjnI
+Ay/fyi1OStbjuQMmrMqGpJaO9dUY7/Z+ILVUlxRpVOIH2GRFOYU/20w/VFUkD85oB+cImKO6
+EbjswmKXbvEmIxtyr03yD8Of7OCX2pu9Qn/MO8ZcJ1zCgFMypUq55aTwokGnwt/D02AYGBBq
+aQhSPTrWaQyPy1cHn4ZbFp9zu83l/abWRlxOCoWwk2oabRIKNSba7ohdFMN1LGIMqaRaraez
+fth1ELpyyXk/+D6hAgMBAAGjgdEwgc4wDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBLAwHQYD
+VR0OBBYEFNIbKeAv87mC7+pfT+iFStDF0wNpMIGRBgNVHSMEgYkwgYaAFGbGMYLKmiupfopo
+RTTERhaNtXZ4oWukaTBnMSUwIwYDVQQuExxwdkxjUXp1WUdjTUxxZUZEdCtNR3BOUE9RQ2c9
+MRMwEQYDVQQKEwpDQS5RVUJFLklOMRMwEQYDVQQLEwpDQS5RVUJFLklOMRQwEgYDVQQDEwsu
+Q0EuUVVCRS5JToIBCjANBgkqhkiG9w0BAQUFAAOCAQEAuQoeyf9/QAaddYnyzzXltYABJh7+
+januWGpFhWT26Tn8tUf89w6m0ZdrGQqwo18kGOJO2NtKKGEYPKwcJT1/HVffOC9/nD0Sdk6y
+hO3tJmEp0rV2DqIf2XscrmyBirufz2N4VXWtOzLBt8mfCw3Nxjw5UdnrEY+ZQ01qGF29/lVC
+fnmdHZ/fnv4FuVSZnps/JcsEoJTxfG+qqp2+DKYAvjK3NXoJ4EVM3B9kQFMeqX4Y/qI/jhIE
+ktACnmAmEYW88hFsPOsoKKJZ7b7QfrBba9fciLuiogEOEDeArPMDrcZiPzN1+iv2F7ITVYdO
++pvIWeNEClDopXjGVYNcEJm9dg==</ds:X509Certificate>
+</ds:X509Data>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>CN=.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=pvLcQzuYGcMLqeFDt\+MGpNPOQCg=</ds:X509IssuerName>
+<ds:X509SerialNumber>10</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIEJDCCAwygAwIBAgIBCjANBgkqhkiG9w0BAQUFADBnMSUwIwYDVQQuExxwdkxjUXp1WUdj
+TUxxZUZEdCtNR3BOUE9RQ2c9MRMwEQYDVQQKEwpDQS5RVUJFLklOMRMwEQYDVQQLEwpDQS5R
+VUJFLklOMRQwEgYDVQQDEwsuQ0EuUVVCRS5JTjAeFw0wNzA2MjEwODQyNThaFw0xNzA2MTcw
+ODQyNThaMGoxJTAjBgNVBC4THFpzWXhnc3FhSzZsK2ltaEZOTVJHRm8yMWRuZz0xEzARBgNV
+BAoTCkNBLlFVQkUuSU4xEzARBgNVBAsTCkNBLlFVQkUuSU4xFzAVBgNVBAMTDi5YUC5DQS5R
+VUJFLklOMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvFcpTa7Z6o08Nk2ornd3
+9KMErLHbxQoiKMnAsJAHWfRaEDSbpay2VS9RUwNZdznTtpkJfEG1Rk24RMA/3g1fhr8Z1Hpr
+/fuEPU2cEIvbzvn2ppE915sM4euS+SaHG4nCMjpkZ0mF+UNFj1CkpzeuVqUqdV7jUfi33KAw
+vxVV+cmI3aq2wUBuZDSHU4hq3hLGsgjkcqXq1DvRVnMzNUbca7ccByekdFE7n2tj3qN+7wZN
+xH7uEnVd7TV1mwvbeID8BHRHkqni1xftU/VoY8UB3lPN6Fd1DwFpLaxFqAGL1QaOWeKuIyW/
+/Cii5Bcibqm7R84RmbrhgPaYU2Mhfyc2NwIDAQABo4HXMIHUMBIGA1UdEwEB/wQIMAYBAf8C
+AQAwCwYDVR0PBAQDAgEGMB0GA1UdDgQWBBRmxjGCyporqX6KaEU0xEYWjbV2eDCBkQYDVR0j
+BIGJMIGGgBSm8txDO5gZwwup4UO34wak085AKKFrpGkwZzElMCMGA1UELhMccHZMY1F6dVlH
+Y01McWVGRHQrTUdwTlBPUUNnPTETMBEGA1UEChMKQ0EuUVVCRS5JTjETMBEGA1UECxMKQ0Eu
+UVVCRS5JTjEUMBIGA1UEAxMLLkNBLlFVQkUuSU6CAQEwDQYJKoZIhvcNAQEFBQADggEBAA1g
+IrrdC5zXU3viluiX750Qss+F1cpg9b7w332hXT853uU0+3PO5vP1zRr/xG/oYAOe3rAhmH9c
+2nZtpdxRPBCJZMDJ4NbbN8joC0EksP2zFg8QWUIuZGhjIRSykI3TnSNYD+4tlH9v3hfSu5uP
+RlIckzghr+wjVg47MFBcIDd5aKxEswBnPUXWTuC2SNyVF0oFJwH1NCDT4uc/RfKAskBr1q46
+4aQkCsOWNX2sq4r3r5XtKCs+FBC6aPTea5JAUOrmdF9qHz6LNq44rzBn9eX8ZVUucJodBrOU
+BstBz1Sti5Ajp/v84pCy9Iq4fq6ZUnANbFCyNOYZHmL5RQAIW4s=</ds:X509Certificate>
+</ds:X509Data>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>CN=.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=pvLcQzuYGcMLqeFDt\+MGpNPOQCg=</ds:X509IssuerName>
+<ds:X509SerialNumber>1</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIEITCCAwmgAwIBAgIBATANBgkqhkiG9w0BAQUFADBnMSUwIwYDVQQuExxwdkxjUXp1WUdj
+TUxxZUZEdCtNR3BOUE9RQ2c9MRMwEQYDVQQKEwpDQS5RVUJFLklOMRMwEQYDVQQLEwpDQS5R
+VUJFLklOMRQwEgYDVQQDEwsuQ0EuUVVCRS5JTjAeFw0wNzA2MjEwODQyNTdaFw0xNzA2MTgw
+ODQyNTdaMGcxJTAjBgNVBC4THHB2TGNRenVZR2NNTHFlRkR0K01HcE5QT1FDZz0xEzARBgNV
+BAoTCkNBLlFVQkUuSU4xEzARBgNVBAsTCkNBLlFVQkUuSU4xFDASBgNVBAMTCy5DQS5RVUJF
+LklOMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwerl/7T6PZ9rLE+dpBEFY0u7
+vDovRJR3QVe+FyfmNlqKve6txKCO7U4Z5nAJTuiS1JkQp93XkigranV4lie9jTagNgfTGx4W
+GJG0MaVESnUY2o/HUQWh/8HWSWGAvx/ObWO6Zr6X55p63t5GkYYYJH+K2wOuV0LAm+0fYcIN
+Zmz/I/ZNbeYJJ9aGbO0fMpAYrvI1EoRe9aq+EIW6rCidExvOxko5iY7hsNtcg8VFHdZ/iIuA
+hiywOxzwfaPFq+WYfthY6fe1CQD4jzeI/JFNeRWX+v7Vpy3Yhq3OahePfqbt6zmXoeJHBX11
+DElf6Chvp1ap3LLjPpFfCaeqW7tayQIDAQABo4HXMIHUMB0GA1UdDgQWBBSm8txDO5gZwwup
+4UO34wak085AKDCBkQYDVR0jBIGJMIGGgBSm8txDO5gZwwup4UO34wak085AKKFrpGkwZzEl
+MCMGA1UELhMccHZMY1F6dVlHY01McWVGRHQrTUdwTlBPUUNnPTETMBEGA1UEChMKQ0EuUVVC
+RS5JTjETMBEGA1UECxMKQ0EuUVVCRS5JTjEUMBIGA1UEAxMLLkNBLlFVQkUuSU6CAQEwEgYD
+VR0TAQH/BAgwBgEB/wIBATALBgNVHQ8EBAMCAgQwDQYJKoZIhvcNAQEFBQADggEBAIu8VtbY
+jaeV8nZ+9z4/BV14IGWmPGUMeveXG+xJ9dZZpg1VdszAyakuyKJdg+PvySAsBOynghZuh89a
+5MdVYVOjE/Wg2RifER4g2r3DBjGyxhqutNCLJW8R2buXCvQXzcA+PlBHvajAwmZmTtXdp0cs
+WqiXQXoBe6ZWYoN9vGmtNqYCb4mx3g3rnSm4ojO1P6UV27W5em7HVVEwJvqjOf/2GI7oIIj9
+jv9Hwru/9xMPh048VLENWeac0trhtYpY1vcyR7IHtXBxQazegN7QI1/sLmSaA4lZzx4gwk8F
+r/JgGQiDcMei+oT4lu2Z/W0EVMRZxj0LDX04OI9OfxyCHgQ=</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+</ds:Signature>
+</CompositionPlaylist>

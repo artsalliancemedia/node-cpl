@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompositionPlaylist xmlns="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#">
+	<Id>urn:uuid:880affa9-e6be-499a-8974-762eb630e476</Id>
+	<IssueDate>2012-03-09T01:34:15-05:00</IssueDate>
+	<Issuer>Fraunhofer IIS</Issuer>
+	<Creator>Fraunhofer easyDCP Creator 2.0.0</Creator>
+	<ContentTitleText>ECSTASY_FTR-1_F_EN-XX_51_2K_20120305</ContentTitleText>
+	<ContentKind>feature</ContentKind>
+	<RatingList/>
+	<ReelList>
+		<Reel>
+			<Id>urn:uuid:2805d981-9ef7-483c-9dbc-9cee3247bbc0</Id>
+			<AssetList>
+				<MainPicture>
+					<Id>urn:uuid:191b2b44-dd96-4e2f-9005-a02c3d40a7d1</Id>
+					<AnnotationText>ECSTASY_MASTER_REEL1-000240.tiff</AnnotationText>
+					<EditRate>24 1</EditRate>
+					<IntrinsicDuration>30195</IntrinsicDuration>
+					<EntryPoint>0</EntryPoint>
+					<Duration>30195</Duration>
+					<Hash>Ty8MzCDOzZi3cccnUdLSJwNXH7A=</Hash>
+					<FrameRate>24 1</FrameRate>
+					<ScreenAspectRatio>1.85</ScreenAspectRatio>
+				</MainPicture>
+				<MainSound>
+					<Id>urn:uuid:0bd109ab-6215-4f61-ac3d-8d4e9cd74b07</Id>
+					<AnnotationText>6 channel audio: Ecstasy_R1_24_FPS_Mix_5.1.L.wav Ecstasy_R1_24_FPS_Mix_5.1.R.wav Ecstasy_R1_24_FPS_Mix_5.1.C.wav Ecstasy_R1_24_FPS_Mix_5.1.LFE.wav Ecstasy_R1_24_FPS_Mix_5.1.Ls.wav Ecstasy_R1</AnnotationText>
+					<EditRate>24 1</EditRate>
+					<IntrinsicDuration>30195</IntrinsicDuration>
+					<EntryPoint>0</EntryPoint>
+					<Duration>30195</Duration>
+					<Hash>aMMhlFuSsl+tmrIJjkZitkmfYnQ=</Hash>
+				</MainSound>
+			</AssetList>
+		</Reel>
+		<Reel>
+			<Id>urn:uuid:7de45482-de67-4125-b700-faedb6cd1f2a</Id>
+			<AssetList>
+				<MainPicture>
+					<Id>urn:uuid:f1c37e3d-9a9e-4a58-a7b1-15bb54479b18</Id>
+					<AnnotationText>ECSTASY_MASTER_REEL_2-000240.tiff</AnnotationText>
+					<EditRate>24 1</EditRate>
+					<IntrinsicDuration>30067</IntrinsicDuration>
+					<EntryPoint>0</EntryPoint>
+					<Duration>30067</Duration>
+					<Hash>xXV4ESYmwgR6bPb21Vg2NNVmrg4=</Hash>
+					<FrameRate>24 1</FrameRate>
+					<ScreenAspectRatio>1.85</ScreenAspectRatio>
+				</MainPicture>
+				<MainSound>
+					<Id>urn:uuid:ce62f546-fe17-41e2-8aa5-16e81f744784</Id>
+					<AnnotationText>6 channel audio: Ecstasy_R2_24_FPS_Mix_5.1.L.wav Ecstasy_R2_24_FPS_Mix_5.1.R.wav Ecstasy_R2_24_FPS_Mix_5.1.C.wav Ecstasy_R2_24_FPS_Mix_5.1.LFE.wav Ecstasy_R2_24_FPS_Mix_5.1.Ls.wav Ecstasy_R2</AnnotationText>
+					<EditRate>24 1</EditRate>
+					<IntrinsicDuration>30067</IntrinsicDuration>
+					<EntryPoint>0</EntryPoint>
+					<Duration>30067</Duration>
+					<Hash>T0MByydQadmlQc2wPWjo45zmpzw=</Hash>
+				</MainSound>
+			</AssetList>
+		</Reel>
+		<Reel>
+			<Id>urn:uuid:f83a89ac-0d61-4dec-94b9-9bafaba5cbd7</Id>
+			<AssetList>
+				<MainPicture>
+					<Id>urn:uuid:f31e0e98-d90a-4a31-b06a-e3984a448d70</Id>
+					<AnnotationText>ECSTASY_MASTER_REEL_3-000240.tiff</AnnotationText>
+					<EditRate>24 1</EditRate>
+					<IntrinsicDuration>29876</IntrinsicDuration>
+					<EntryPoint>0</EntryPoint>
+					<Duration>29876</Duration>
+					<Hash>FeMDKXiIyg2or3N2gK6CT5281YM=</Hash>
+					<FrameRate>24 1</FrameRate>
+					<ScreenAspectRatio>1.85</ScreenAspectRatio>
+				</MainPicture>
+				<MainSound>
+					<Id>urn:uuid:29260ecf-0012-4a8d-9722-74b4f51fc339</Id>
+					<AnnotationText>6 channel audio: Ecstasy_R3_24_FPS_Mix_5.1-L.wav Ecstasy_R3_24_FPS_Mix_5.1R.wav Ecstasy_R3_24_FPS_Mix_5.1C.wav Ecstasy_R3_24_FPS_Mix_5.1LFE.wav Ecstasy_R3_24_FPS_Mix_5.1Ls.wav Ecstasy_R3_24_</AnnotationText>
+					<EditRate>24 1</EditRate>
+					<IntrinsicDuration>29876</IntrinsicDuration>
+					<EntryPoint>0</EntryPoint>
+					<Duration>29876</Duration>
+					<Hash>48SQ/tO0nAhPNwTKVrFxpVMW5i8=</Hash>
+				</MainSound>
+			</AssetList>
+		</Reel>
+		<Reel>
+			<Id>urn:uuid:3e0879b5-7037-45e8-93ae-ea4b60beb131</Id>
+			<AssetList>
+				<MainPicture>
+					<Id>urn:uuid:9577ae27-a6a9-4e2d-a909-a628dd999165</Id>
+					<AnnotationText>ECSTASY_MASTER_REEL_4-000240.tiff</AnnotationText>
+					<EditRate>24 1</EditRate>
+					<IntrinsicDuration>29351</IntrinsicDuration>
+					<EntryPoint>0</EntryPoint>
+					<Duration>29351</Duration>
+					<Hash>y1sXuVHNzXFcRw1yUZQVl0sVXVA=</Hash>
+					<FrameRate>24 1</FrameRate>
+					<ScreenAspectRatio>1.85</ScreenAspectRatio>
+				</MainPicture>
+				<MainSound>
+					<Id>urn:uuid:d9650679-4ba9-45d5-b012-1f88d166fb34</Id>
+					<AnnotationText>6 channel audio: Ecstasy_R4_24_FPS_Mix_5.1L.wav Ecstasy_R4_24_FPS_Mix_5.1R.wav Ecstasy_R4_24_FPS_Mix_5.1C.wav Ecstasy_R4_24_FPS_Mix_5.1LFE.wav Ecstasy_R4_24_FPS_Mix_5.1Ls.wav Ecstasy_R4_24_F</AnnotationText>
+					<EditRate>24 1</EditRate>
+					<IntrinsicDuration>29351</IntrinsicDuration>
+					<EntryPoint>0</EntryPoint>
+					<Duration>29351</Duration>
+					<Hash>J5NA+aQ45KixvOOHRNvgJVU/PsY=</Hash>
+				</MainSound>
+			</AssetList>
+		</Reel>
+		<Reel>
+			<Id>urn:uuid:209c5f99-ceb9-4e11-a767-97de69997a9e</Id>
+			<AssetList>
+				<MainPicture>
+					<Id>urn:uuid:c17e4736-74ce-47b3-9b84-ea52bb650dd0</Id>
+					<AnnotationText>ECSTASY_REEL_5-000240.tiff</AnnotationText>
+					<EditRate>24 1</EditRate>
+					<IntrinsicDuration>29904</IntrinsicDuration>
+					<EntryPoint>0</EntryPoint>
+					<Duration>29904</Duration>
+					<Hash>zpZnmC5k5K/PLYKsMOP2W3rrcFI=</Hash>
+					<FrameRate>24 1</FrameRate>
+					<ScreenAspectRatio>1.85</ScreenAspectRatio>
+				</MainPicture>
+				<MainSound>
+					<Id>urn:uuid:c5e12e01-4bcb-414a-8364-5f9a409d8a42</Id>
+					<AnnotationText>6 channel audio: Ecstasy_R5_24_FPS_Mix_5.1L.wav Ecstasy_R5_24_FPS_Mix_5.1R.wav Ecstasy_R5_24_FPS_Mix_5.1C.wav Ecstasy_R5_24_FPS_Mix_5.1LFE.wav Ecstasy_R5_24_FPS_Mix_5.1Ls.wav Ecstasy_R5_24_F</AnnotationText>
+					<EditRate>24 1</EditRate>
+					<IntrinsicDuration>29904</IntrinsicDuration>
+					<EntryPoint>0</EntryPoint>
+					<Duration>29904</Duration>
+					<Hash>a9YPzQ0rS/03Ay0NTOaVLhf2Qqk=</Hash>
+				</MainSound>
+			</AssetList>
+		</Reel>
+	</ReelList>
+</CompositionPlaylist>

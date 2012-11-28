@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><CompositionPlaylist xmlns="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+  <Id>urn:uuid:7e69fb2c-b16d-4b96-9a90-04485f572e26</Id>
+  <AnnotationText>AGE-STUPID-WW_FTR_F_EN-XX_XX_51_2K_AAM_20090821_AAM</AnnotationText>
+  <IssueDate>2009-08-24T10:07:38+01:00</IssueDate>
+  <Issuer>Qube</Issuer>
+  <Creator>Qube Master 2.1.3.5</Creator>
+  <ContentTitleText>AGE-STUPID-WW_FTR_F_EN-XX_XX_51_2K_AAM_20090821_AAM</ContentTitleText>
+  <ContentKind scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-content">feature</ContentKind>
+  <RatingList />
+  <ReelList>
+    <Reel>
+      <Id>urn:uuid:d03f2ca2-1474-42d8-96ae-b45ea795b5a3</Id>
+      <AnnotationText>Reel_1_of_AGE-STUPID-WW_FTR_F_EN-XX_XX_51_2K_AAM_20090821_AAM</AnnotationText>
+      <AssetList>
+        <MainPicture>
+          <Id>urn:uuid:0ebd48a9-49bc-4545-9498-b08be21c79de</Id>
+          <AnnotationText>Reel_1_Video_of_AGE-STUPID-WW_FTR_F_EN-XX_XX_51_2K_AAM_20090821_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>133128</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>133128</Duration>
+          <KeyId>urn:uuid:f60a48ea-88e9-b87e-5ce5-e4fc723c3fc1</KeyId>
+          <Hash>NYxOAfwMoDYGdWug3U6GI5f8r1Q=</Hash>
+          <FrameRate>24 1</FrameRate>
+          <ScreenAspectRatio scope="http://www.digicine.com/PROTO-ASDCP-CPL-20040511#standard-aspectratio">1.85</ScreenAspectRatio>
+        </MainPicture>
+        <MainSound>
+          <Id>urn:uuid:bf4d3eb2-dd42-40d2-be25-f30e1ca6a4c4</Id>
+          <AnnotationText>Reel_1_Audio_of_AGE-STUPID-WW_FTR_F_EN-XX_XX_51_2K_AAM_20090821_AAM.mxf</AnnotationText>
+          <EditRate>24 1</EditRate>
+          <IntrinsicDuration>133128</IntrinsicDuration>
+          <EntryPoint>0</EntryPoint>
+          <Duration>133128</Duration>
+          <KeyId>urn:uuid:8bc60ca1-1d48-f07b-6ede-59ef466f7ad6</KeyId>
+          <Hash>RueTGxtxNGImWMDQUMannamI49k=</Hash>
+        </MainSound>
+      </AssetList>
+    </Reel>
+  </ReelList>
+  <Signer>
+    <ds:X509Data>
+      <ds:X509IssuerSerial>
+        <ds:X509IssuerName>CN=.XP.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=ZsYxgsqaK6l\+imhFNMRGFo21dng=</ds:X509IssuerName>
+        <ds:X509SerialNumber>781</ds:X509SerialNumber>
+      </ds:X509IssuerSerial>
+    </ds:X509Data>
+  </Signer>
+
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+<ds:Reference URI="">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+<ds:DigestValue>pfe740pB70PZXpDJIF0wyBy889E=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue>bZ/fnXH1u5zI26uEal980tIVLP3sg+UjuJab/mh+gYxAnvi4E0eaLZLNKdCVZD6R
+jHiQfPapN6mnxW+cuDwrvNnL/uKs58Mf6XSSYpzju9noKpUg5oW5DIoJZ+cebBvx
+QEfIn900EN/iMBIOUE/SAB6ltTIb5LTlqKQV7XoUSNCiAARBwh8lQjPcd2YE7KHe
+b+xicwjnWSd9r6dDcUzR5zuqe9tYDjPqs4qo0QTAqdao8W9lv+0eahspOCvrVO09
+27bOzhx0dsJb2rKLcRqcwvUSACNEZfL0EU8dNElLq+P6W/f3j09o9Pwn5PSWQvRj
+lFVZJLpSfG18JJPha4g+DQ==</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>CN=.XP.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=ZsYxgsqaK6l\+imhFNMRGFo21dng=</ds:X509IssuerName>
+<ds:X509SerialNumber>781</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIERzCCAy+gAwIBAgICAw0wDQYJKoZIhvcNAQEFBQAwajElMCMGA1UELhMcWnNZeGdzcWFL
+NmwraW1oRk5NUkdGbzIxZG5nPTETMBEGA1UEChMKQ0EuUVVCRS5JTjETMBEGA1UECxMKQ0Eu
+UVVCRS5JTjEXMBUGA1UEAxMOLlhQLkNBLlFVQkUuSU4wHhcNMDcxMjEzMTYxNzQ0WhcNMTIx
+MjExMTYxNzQ0WjCBjjElMCMGA1UELhMcMGhzcDRDL3p1WUx2Nmw5UDZJVkswTVhUQTJrPTET
+MBEGA1UEChMKQ0EuUVVCRS5JTjETMBEGA1UECxMKQ0EuUVVCRS5JTjE7MDkGA1UEAxMyU00g
+U1BCIE1EIExFLkFSVFNBTExJQU5DRS1NQVNURVJJTkcxLlhQLkNBLlFVQkUuSU4wggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCmYGDGYZGiu4BAKco4HX1ZcIKwA8jTBqvXB/OR
+y4CkJznX87DrHau72Gj4Zd0weiaW1y4LLD4CvgQV3Ej+6CvU7Xuxr1vwy+P0Nts09opyBjnI
+Ay/fyi1OStbjuQMmrMqGpJaO9dUY7/Z+ILVUlxRpVOIH2GRFOYU/20w/VFUkD85oB+cImKO6
+EbjswmKXbvEmIxtyr03yD8Of7OCX2pu9Qn/MO8ZcJ1zCgFMypUq55aTwokGnwt/D02AYGBBq
+aQhSPTrWaQyPy1cHn4ZbFp9zu83l/abWRlxOCoWwk2oabRIKNSba7ohdFMN1LGIMqaRaraez
+fth1ELpyyXk/+D6hAgMBAAGjgdEwgc4wDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBLAwHQYD
+VR0OBBYEFNIbKeAv87mC7+pfT+iFStDF0wNpMIGRBgNVHSMEgYkwgYaAFGbGMYLKmiupfopo
+RTTERhaNtXZ4oWukaTBnMSUwIwYDVQQuExxwdkxjUXp1WUdjTUxxZUZEdCtNR3BOUE9RQ2c9
+MRMwEQYDVQQKEwpDQS5RVUJFLklOMRMwEQYDVQQLEwpDQS5RVUJFLklOMRQwEgYDVQQDEwsu
+Q0EuUVVCRS5JToIBCjANBgkqhkiG9w0BAQUFAAOCAQEAuQoeyf9/QAaddYnyzzXltYABJh7+
+januWGpFhWT26Tn8tUf89w6m0ZdrGQqwo18kGOJO2NtKKGEYPKwcJT1/HVffOC9/nD0Sdk6y
+hO3tJmEp0rV2DqIf2XscrmyBirufz2N4VXWtOzLBt8mfCw3Nxjw5UdnrEY+ZQ01qGF29/lVC
+fnmdHZ/fnv4FuVSZnps/JcsEoJTxfG+qqp2+DKYAvjK3NXoJ4EVM3B9kQFMeqX4Y/qI/jhIE
+ktACnmAmEYW88hFsPOsoKKJZ7b7QfrBba9fciLuiogEOEDeArPMDrcZiPzN1+iv2F7ITVYdO
++pvIWeNEClDopXjGVYNcEJm9dg==</ds:X509Certificate>
+</ds:X509Data>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>CN=.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=pvLcQzuYGcMLqeFDt\+MGpNPOQCg=</ds:X509IssuerName>
+<ds:X509SerialNumber>10</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIEJDCCAwygAwIBAgIBCjANBgkqhkiG9w0BAQUFADBnMSUwIwYDVQQuExxwdkxjUXp1WUdj
+TUxxZUZEdCtNR3BOUE9RQ2c9MRMwEQYDVQQKEwpDQS5RVUJFLklOMRMwEQYDVQQLEwpDQS5R
+VUJFLklOMRQwEgYDVQQDEwsuQ0EuUVVCRS5JTjAeFw0wNzA2MjEwODQyNThaFw0xNzA2MTcw
+ODQyNThaMGoxJTAjBgNVBC4THFpzWXhnc3FhSzZsK2ltaEZOTVJHRm8yMWRuZz0xEzARBgNV
+BAoTCkNBLlFVQkUuSU4xEzARBgNVBAsTCkNBLlFVQkUuSU4xFzAVBgNVBAMTDi5YUC5DQS5R
+VUJFLklOMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvFcpTa7Z6o08Nk2ornd3
+9KMErLHbxQoiKMnAsJAHWfRaEDSbpay2VS9RUwNZdznTtpkJfEG1Rk24RMA/3g1fhr8Z1Hpr
+/fuEPU2cEIvbzvn2ppE915sM4euS+SaHG4nCMjpkZ0mF+UNFj1CkpzeuVqUqdV7jUfi33KAw
+vxVV+cmI3aq2wUBuZDSHU4hq3hLGsgjkcqXq1DvRVnMzNUbca7ccByekdFE7n2tj3qN+7wZN
+xH7uEnVd7TV1mwvbeID8BHRHkqni1xftU/VoY8UB3lPN6Fd1DwFpLaxFqAGL1QaOWeKuIyW/
+/Cii5Bcibqm7R84RmbrhgPaYU2Mhfyc2NwIDAQABo4HXMIHUMBIGA1UdEwEB/wQIMAYBAf8C
+AQAwCwYDVR0PBAQDAgEGMB0GA1UdDgQWBBRmxjGCyporqX6KaEU0xEYWjbV2eDCBkQYDVR0j
+BIGJMIGGgBSm8txDO5gZwwup4UO34wak085AKKFrpGkwZzElMCMGA1UELhMccHZMY1F6dVlH
+Y01McWVGRHQrTUdwTlBPUUNnPTETMBEGA1UEChMKQ0EuUVVCRS5JTjETMBEGA1UECxMKQ0Eu
+UVVCRS5JTjEUMBIGA1UEAxMLLkNBLlFVQkUuSU6CAQEwDQYJKoZIhvcNAQEFBQADggEBAA1g
+IrrdC5zXU3viluiX750Qss+F1cpg9b7w332hXT853uU0+3PO5vP1zRr/xG/oYAOe3rAhmH9c
+2nZtpdxRPBCJZMDJ4NbbN8joC0EksP2zFg8QWUIuZGhjIRSykI3TnSNYD+4tlH9v3hfSu5uP
+RlIckzghr+wjVg47MFBcIDd5aKxEswBnPUXWTuC2SNyVF0oFJwH1NCDT4uc/RfKAskBr1q46
+4aQkCsOWNX2sq4r3r5XtKCs+FBC6aPTea5JAUOrmdF9qHz6LNq44rzBn9eX8ZVUucJodBrOU
+BstBz1Sti5Ajp/v84pCy9Iq4fq6ZUnANbFCyNOYZHmL5RQAIW4s=</ds:X509Certificate>
+</ds:X509Data>
+<ds:X509Data>
+<ds:X509IssuerSerial>
+<ds:X509IssuerName>CN=.CA.QUBE.IN,OU=CA.QUBE.IN,O=CA.QUBE.IN,dnQualifier=pvLcQzuYGcMLqeFDt\+MGpNPOQCg=</ds:X509IssuerName>
+<ds:X509SerialNumber>1</ds:X509SerialNumber>
+</ds:X509IssuerSerial>
+<ds:X509Certificate>MIIEITCCAwmgAwIBAgIBATANBgkqhkiG9w0BAQUFADBnMSUwIwYDVQQuExxwdkxjUXp1WUdj
+TUxxZUZEdCtNR3BOUE9RQ2c9MRMwEQYDVQQKEwpDQS5RVUJFLklOMRMwEQYDVQQLEwpDQS5R
+VUJFLklOMRQwEgYDVQQDEwsuQ0EuUVVCRS5JTjAeFw0wNzA2MjEwODQyNTdaFw0xNzA2MTgw
+ODQyNTdaMGcxJTAjBgNVBC4THHB2TGNRenVZR2NNTHFlRkR0K01HcE5QT1FDZz0xEzARBgNV
+BAoTCkNBLlFVQkUuSU4xEzARBgNVBAsTCkNBLlFVQkUuSU4xFDASBgNVBAMTCy5DQS5RVUJF
+LklOMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwerl/7T6PZ9rLE+dpBEFY0u7
+vDovRJR3QVe+FyfmNlqKve6txKCO7U4Z5nAJTuiS1JkQp93XkigranV4lie9jTagNgfTGx4W
+GJG0MaVESnUY2o/HUQWh/8HWSWGAvx/ObWO6Zr6X55p63t5GkYYYJH+K2wOuV0LAm+0fYcIN
+Zmz/I/ZNbeYJJ9aGbO0fMpAYrvI1EoRe9aq+EIW6rCidExvOxko5iY7hsNtcg8VFHdZ/iIuA
+hiywOxzwfaPFq+WYfthY6fe1CQD4jzeI/JFNeRWX+v7Vpy3Yhq3OahePfqbt6zmXoeJHBX11
+DElf6Chvp1ap3LLjPpFfCaeqW7tayQIDAQABo4HXMIHUMB0GA1UdDgQWBBSm8txDO5gZwwup
+4UO34wak085AKDCBkQYDVR0jBIGJMIGGgBSm8txDO5gZwwup4UO34wak085AKKFrpGkwZzEl
+MCMGA1UELhMccHZMY1F6dVlHY01McWVGRHQrTUdwTlBPUUNnPTETMBEGA1UEChMKQ0EuUVVC
+RS5JTjETMBEGA1UECxMKQ0EuUVVCRS5JTjEUMBIGA1UEAxMLLkNBLlFVQkUuSU6CAQEwEgYD
+VR0TAQH/BAgwBgEB/wIBATALBgNVHQ8EBAMCAgQwDQYJKoZIhvcNAQEFBQADggEBAIu8VtbY
+jaeV8nZ+9z4/BV14IGWmPGUMeveXG+xJ9dZZpg1VdszAyakuyKJdg+PvySAsBOynghZuh89a
+5MdVYVOjE/Wg2RifER4g2r3DBjGyxhqutNCLJW8R2buXCvQXzcA+PlBHvajAwmZmTtXdp0cs
+WqiXQXoBe6ZWYoN9vGmtNqYCb4mx3g3rnSm4ojO1P6UV27W5em7HVVEwJvqjOf/2GI7oIIj9
+jv9Hwru/9xMPh048VLENWeac0trhtYpY1vcyR7IHtXBxQazegN7QI1/sLmSaA4lZzx4gwk8F
+r/JgGQiDcMei+oT4lu2Z/W0EVMRZxj0LDX04OI9OfxyCHgQ=</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+</ds:Signature>
+</CompositionPlaylist>
