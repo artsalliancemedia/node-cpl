@@ -24,12 +24,12 @@ var getCPLFiles = function() {
 };
 
 /**
- * Blank asserts for the test CPL
+ * Blanket asserts for the first test CPL
  */
-var cplAsserts = function(cpl) {
+var cpl1Asserts = function(cpl) {
 	assert(cpl);
 	assert.equal(cpl.id, '7b1e5649-ff30-489b-b74a-c2e1060bb590');
-	assert.equal(cpl.issuer, 'Arts Alliance Media', 'CPL issuer is incorrect');
+	assert.equal(cpl.issuer, 'Arts Alliance Media');
 	assert.equal(cpl.issueDate.getTime(), new Date('2009-02-04T10:34:09-00:00').getTime());
 	assert.equal(cpl.creator, 'wl-cpl + Wailua v0.4.27');
 	assert.equal(cpl.titleText, 'AIDA-ACT1_FTR_F_IT-DE_DE_51_2K_20090217_AAM');
@@ -50,16 +50,41 @@ var cplAsserts = function(cpl) {
 };
 
 /**
+ * Blanket asserts for the first test CPL
+ */
+var cpl2Asserts = function(cpl) {
+	assert(cpl);
+	assert.equal(cpl.id, '3a4a95d1-6947-4752-8c73-57fc80111973');
+	assert.equal(cpl.issuer, 'Qube');
+	assert.equal(cpl.issueDate.getTime(), new Date('2010-03-26T10:35:49+00:00').getTime());
+	assert.equal(cpl.creator, 'QubeMaster Pro 2.3.1.0');
+	assert.equal(cpl.titleText, '014_SD3D_ENC_S_FTR_F_EN-XX_UK_51_48_ST_20100326_FAC_i3D-ngb_OV');
+	assert.equal(cpl.text, '014_SD3D_ENC_SYNFIXED_J2K');
+	assert.equal(cpl.type, 'feature');
+};
+
+/**
  * CPL parser tests
  */
 describe('cplParser', function() {
 
-	describe('createStream', function() {
+	describe('createStream#1', function() {
 		it('should create a stream and parse the metadata from an XML stream', function(done) {
 			var cplStream = cplParser.createStream();
  			fs.createReadStream(path.resolve(__dirname, path.join('cpls', 'cpl.xml'))).pipe(cplStream);
  			cplStream.on('cpl', function(cpl) {
-				cplAsserts(cpl);
+				cpl1Asserts(cpl);
+				done();
+ 			});
+		});
+	});
+
+	describe('createStream#2', function() {
+		it('should create a stream and parse the metadata from an XML stream', function(done) {
+			var cplStream = cplParser.createStream();
+ 			fs.createReadStream(path.resolve(__dirname, path.join('cpls', 'cpl2.xml'))).pipe(cplStream);
+ 			cplStream.on('cpl', function(cpl) {
+				cpl2Asserts(cpl);
 				done();
  			});
 		});
@@ -71,7 +96,7 @@ describe('cplParser', function() {
 			fs.readFile(path.resolve(__dirname, path.join('cpls', 'cpl.xml')), 'utf8', function(err, xml) {
 				cplParser.parse(xml, function(err, cpl) {
 					assert.ifError(err);
-					cplAsserts(cpl);
+					cpl1Asserts(cpl);
 					done();
 				});
 			});

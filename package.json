@@ -1,7 +1,7 @@
 { "name": "node-cpl"
     , "description": "SMPTE CPL parsing library"
     , "author": "Matt Sullivan <matt.j.sullivan@gmail.com>"
-    , "version": "0.0.2"
+    , "version": "0.0.3"
     , "bin": 
         { "node-cpl": "./lib/node-cpl.js"
     }
@@ -19,10 +19,10 @@
         { "sax": "0.4.2"
     }
     , "devDependencies":
-        { "mocha": "1.7.0"
-        , "async": "0.1.22"
+        { "mocha": "1.x"
+        , "async": "0.x"
     }
     , "engines" : {
-        "node": ">=0.8"
+        "node": ">=0.6"
     }
 }

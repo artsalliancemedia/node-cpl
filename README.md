@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mjohnsullivan/node-cpl.png)](http://travis-ci.org/mjohnsullivan/node-cpl)
+
 CPL Parsing
 ===========
 
