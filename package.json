@@ -1,6 +1,6 @@
 { "name": "node-cpl"
     , "description": "SMPTE CPL parsing library"
-    , "author": "Matt Sullivan <matt.j.sullivan@gmail.com>"
+    , "author": "Arts Alliance Media <matt.sullivan@artsalliancemedia.com>"
     , "version": "0.0.3"
     , "bin": 
         { "node-cpl": "./lib/node-cpl.js"
@@ -8,15 +8,17 @@
     , "main": "./index"
     , "scripts": 
         { "test": "mocha --globals domain,_events,_maxListeners"
+        , "start": "node ./bin/http-server"
     }
     , "repository" :
         { "type" : "git"
-        , "url" : "https://github.com/mjohnsullivan/node-cpl"
+        , "url" : "https://github.com/artsalliancemedia/node-cpl"
     }
-    , "bugs" : { "url" : "https://github.com/mjohnsullivan/node-cpl/issues"
+    , "bugs" : { "url" : "https://github.com/artsalliancemedia/node-cpl/issues"
     }
     , "dependencies":
         { "sax": "0.4.2"
+        , "underscore": "1.4.x"
     }
     , "devDependencies":
         { "mocha": "1.x"

@@ -50,7 +50,25 @@ var cpl1Asserts = function(cpl) {
 };
 
 /**
- * Blanket asserts for the first test CPL
+ * Blanket asserts for the annotation text of the first CPL
+ */
+ var cpl1TextAsserts = function(cpl) {
+ 	assert(cpl);
+ 	assert.equal(cpl.name, 'AIDA-ACT1');
+ 	assert.equal(cpl.type, 'feature');
+ 	assert.equal(cpl.aspectRatio, 'flat');
+ 	assert.equal(cpl.language, 'IT');
+ 	assert.equal(cpl.subtitles, 'DE');
+ 	assert.equal(cpl.territory, 'DE');
+ 	assert(!cpl.rating);
+ 	assert.equal(cpl.audio, '51');
+ 	assert.equal(cpl.resolution, '2K');
+ 	assert.equal(cpl.studio, 'AAM');
+ 	assert.deepEqual(cpl.date, new Date(2009, 02, 17));
+ };
+
+/**
+ * Blanket asserts for the second test CPL
  */
 var cpl2Asserts = function(cpl) {
 	assert(cpl);
@@ -122,5 +140,18 @@ describe('cplParser', function() {
 				});
 		});
 	});
+
+	describe('createStream#1WithDCNameOption', function() {
+		it('should create a stream and parse the metadata from an XML stream and parse the DC name', function(done) {
+			var cplStream = cplParser.createStream({parseDCName: true});
+ 			fs.createReadStream(path.resolve(__dirname, path.join('cpls', 'cpl.xml'))).pipe(cplStream);
+ 			cplStream.on('cpl', function(cpl) {
+				cpl1Asserts(cpl);
+				cpl1TextAsserts(cpl);
+				done();
+ 			});
+		});
+	});
+
 
 });
