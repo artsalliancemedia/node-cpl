@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/mjohnsullivan/node-cpl.png)](http://travis-ci.org/mjohnsullivan/node-cpl)
+[![Build Status](https://travis-ci.org/artsalliancemedia/node-cpl.png)](http://travis-ci.org/artsalliancemedia/node-cpl)
+
+** The NPM package has been renamed from node-cpl to cpl! Make sure to update your dependencies. **
 
 CPL Parsing
 ===========
