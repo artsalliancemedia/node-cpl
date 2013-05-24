@@ -13,7 +13,7 @@ Usage
 Using streams:
 
 ```javascript
-var cplParser = require('node-cpl');
+var cplParser = require('cpl');
 var fs = require('fs');
 
 var cplStream = cplParser.createStream();
@@ -26,7 +26,7 @@ cplStream.on('cpl', function(cpl) {
 Using callbacks:
 
 ```javascript
-cplParser.parseCPL(fs.readFileSync('cpl.xml', 'UTF-8'), function(err, cpl) {
+cplParser.parse(fs.readFileSync('cpl.xml', 'UTF-8'), function(err, cpl) {
     if (err) return console.error(err);
     console.log(cpl);
 });
@@ -35,7 +35,8 @@ cplParser.parseCPL(fs.readFileSync('cpl.xml', 'UTF-8'), function(err, cpl) {
 The CPL object takes the form:
 
 ```json
-{
+{	
+	"isCPL": true,
 	"id": "7b1e5649-ff30-489b-b74a-c2e1060bb590",
 	"text": "AIDA-ACT1_FTR_F_IT-DE_DE_51_2K_20090217_AAM",
 	"issueDate": "2009-02-04T10:34:09.000Z",
@@ -59,6 +60,10 @@ The CPL object takes the form:
 	]
 }
 ```
+
+Non CPL .xml files
+------------------
+Any files parsed that are not a valid CPL will return an object with a field "isCPL" set to false. This can be useful to determine whether an .xml file is a CPL or not.
 
 License (MIT)
 -------------

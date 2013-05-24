@@ -28,6 +28,7 @@ var getCPLFiles = function() {
  */
 var cpl1Asserts = function(cpl) {
 	assert(cpl);
+	assert(cpl.isCPL);
 	assert.equal(cpl.id, '7b1e5649-ff30-489b-b74a-c2e1060bb590');
 	assert.equal(cpl.issuer, 'Arts Alliance Media');
 	assert.equal(cpl.issueDate.getTime(), new Date('2009-02-04T10:34:09-00:00').getTime());
@@ -54,6 +55,7 @@ var cpl1Asserts = function(cpl) {
  */
  var cpl1TextAsserts = function(cpl) {
  	assert(cpl);
+ 	assert(cpl.isCPL);
  	assert.equal(cpl.name, 'AIDA-ACT1');
  	assert.equal(cpl.type, 'feature');
  	assert.equal(cpl.aspectRatio, 'flat');
@@ -72,6 +74,7 @@ var cpl1Asserts = function(cpl) {
  */
 var cpl2Asserts = function(cpl) {
 	assert(cpl);
+	assert(cpl.isCPL);
 	assert.equal(cpl.id, '3a4a95d1-6947-4752-8c73-57fc80111973');
 	assert.equal(cpl.issuer, 'Qube');
 	assert.equal(cpl.issueDate.getTime(), new Date('2010-03-26T10:35:49+00:00').getTime());
@@ -80,6 +83,11 @@ var cpl2Asserts = function(cpl) {
 	assert.equal(cpl.text, '014_SD3D_ENC_SYNFIXED_J2K');
 	assert.equal(cpl.type, 'feature');
 };
+
+var notCplAssert = function(cpl){
+	assert(cpl);
+	assert.equal(cpl.isCPL, false);
+}
 
 /**
  * CPL parser tests
@@ -150,6 +158,17 @@ describe('cplParser', function() {
 				cpl1TextAsserts(cpl);
 				done();
  			});
+		});
+	});
+
+	describe('parseNonCplXML', function() {
+		it('should parse a Non CPL xml and return an object with a isCPL field as false', function(done){
+			var cplStream = cplParser.createStream();
+			fs.createReadStream(path.resolve(__dirname, path.join('not_cpls', 'not_cpl.xml'))).pipe(cplStream);
+			cplStream.on('cpl', function(cpl){
+				notCplAssert(cpl);
+				done();
+			});
 		});
 	});
 
